@@ -7,3 +7,7 @@
 LINE Notifyを使い学習後に通知が来るようにしている．`settings.json`には，自分が発行したトークンを記述する．
 以下を参考にした．
 - [PythonでLINEにメッセージを送る](https://qiita.com/moriita/items/5b199ac6b14ceaa4f7c9)
+
+# 環境構築
+好きな場所で仮想環境をつくり，以下のコマンドをターミナルで実行．
+`pip install -r requirements.txt`
